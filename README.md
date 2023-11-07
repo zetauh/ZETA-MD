@@ -1,8 +1,8 @@
 
-<h1 align="center"> sɪɢᴍᴀ ᴹᴰ </h1>
+<h1 align="center"> ᴢᴇᴛᴀ ᴹᴰ </h1>
 </p>
 <p align="center">
-  <a href="https://www.youtube.com/@InnoxentTech">
+  <a href="https://bit.ly/yt-zeta">
     <img alt=Support height="350" src="https://telegra.ph/file/03e49e6e2057568db8926.jpg"> 
     </p>
     <p align="center">
@@ -10,7 +10,7 @@
   </p>
 
 <p align="center">
-  <a href="https://github.com/Maher-Zubair/SIGMA-MD/fork">
+  <a href="https://github.com/zetauh/ZETA-MD/fork">
     <img src="https://img.shields.io/github/forks/Maher-Zubair/SIGMA-MD?label=Fork&style=social">
     
     
@@ -22,7 +22,7 @@
 
 
 <p align="center">
-<a href="https://github.com/Maher-Zubair"><img title="Owner" src="https://img.shields.io/badge/Owner-Maher Zubair-black.svg?style=for-the-badge&logo=github" width="173px" height="29"></a>
+<a href="https://github.com/zetauh"><img title="Owner" src="https://img.shields.io/badge/Owner-Maher Zubair-black.svg?style=for-the-badge&logo=github" width="173px" height="29"></a>
 
  <a href="https://github.com/Maher-Zubair/SIGMA-MD/blob/main/LICENCE">
 <img src='https://img.shields.io/github/license/Maher-Zubair/SIGMA-MD?color=%231e81b0&style=for-the-badge' width="143px">
